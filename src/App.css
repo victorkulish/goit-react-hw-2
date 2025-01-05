@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.feedback-buttons button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.feedback-buttons button:hover {
+  background-color: #e0e0e0;
+}
+
+.feedback-stats {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.feedback-stats p {
+  margin: 5px 0;
+}
